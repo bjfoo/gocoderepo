@@ -1,2 +1,2 @@
 # gocoderepo
-Example go code eventually and from Visual Code.
+Example go code eventually and from Visual Code w/SSH?
